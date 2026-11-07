@@ -9,10 +9,6 @@ Full-stack software engineer working mainly with React, TypeScript and Node.js. 
 - **Grid Dynamics, for Neiman Marcus** (2021–2023): retail associate platform, where I led six UI engineers.
 - **Hogarth Worldwide, for Apple** (2019–2021): QA, then front-end engineering, on a rewards and warranty portal.
 
-## Code
-
-Most of my work is in private client and employer repositories. [fe-breed](https://github.com/MikkD/fe-breed) is a public practice project using React, TypeScript, MobX and Vitest.
-
 ## Contact
 
 [LinkedIn](https://www.linkedin.com/in/mikita-dasiukou-a606b914a)
