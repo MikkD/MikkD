@@ -7,7 +7,7 @@ Full-stack software engineer working mainly with React, TypeScript and Node.js. 
 - **Westcove Development** (2026–present): investor and content platform for a Los Angeles real estate developer, using Sanity, Netlify Functions and the Anthropic API. [westcovedev.com](https://www.westcovedev.com)
 - **Grid Dynamics, for Silicon Valley Bank** (2023–2026): search, dashboards and loan workflows for a corporate banking platform.
 - **Grid Dynamics, for Neiman Marcus** (2021–2023): retail associate platform, where I led six UI engineers.
-- **Hogarth Worldwide, for GAF** (2019–2021): QA, then front-end engineering, on a rewards and warranty portal.
+- **Hogarth Worldwide, for Apple** (2019–2021): QA, then front-end engineering, on a rewards and warranty portal.
 
 ## Code
 
