@@ -15,4 +15,4 @@ Most of my work is in private client and employer repositories. [fe-breed](https
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/mikita-d-a606b914a)
+[LinkedIn](https://www.linkedin.com/in/mikita-dasiukou-a606b914a)
